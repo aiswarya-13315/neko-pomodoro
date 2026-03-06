@@ -17,19 +17,18 @@ A kitty-themed pixel art Pomodoro timer built with Python + Tkinter. Cherry blos
   - short break → sleeping with floating z z z
   - long break → happy with a floating ♥
 - 💗 **glowing ring timer** with a smooth countdown arc
-- 🌸 **cherry blossom pink theme** throughout
+- 🌸 **cherry blossom pink theme** wholeee <3
 - ♥ **session tracker** — 4 heart dots that fill in as you complete focus sessions
 - 🔔 **auto mode switching** — jumps to break when focus ends, back to work after break
-- 🕹️ **pixel-style buttons** with a press-down effect — START/PAUSE, RESET, SKIP
+- 🕹️ **pixel-style buttons** with a press-down effect - START/PAUSE, RESET, SKIP
 - 🪶 **zero dependencies** — pure Python standard library, no pip needed!
 
 ---
 
 ## 📸 preview
 
-<!-- add a screenshot here after running the app! -->
-<!-- drag an image into github when editing the README -->
-> *screenshot coming soon — run it yourself! 🐾*
+<img width="513" height="819" alt="image" src="https://github.com/user-attachments/assets/57a5b17c-17d1-4373-a119-f3b0607d0b5d" />
+
 
 ---
 
@@ -100,7 +99,7 @@ neko-pomodoro/
 
 ## 📄 license
 
-MIT — do whatever you want with it ✌️
+MIT — do whatever you want with it 
 
 ---
 
