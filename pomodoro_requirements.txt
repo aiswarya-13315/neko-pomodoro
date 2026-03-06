@@ -1,0 +1,10 @@
+# no external packages needed!
+# neko pomodoro runs on Python's standard library only.
+#
+# built-in modules used:
+#   tkinter   -- GUI framework
+#   math      -- animations (bobbing, ring arc, tail wag)
+#   threading -- not used, but available for future features
+#
+# linux users only -- if tkinter is missing:
+#   sudo apt-get install python3-tk
